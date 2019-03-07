@@ -1,2 +1,0 @@
-# php
-Webbserverprogrammering med php
